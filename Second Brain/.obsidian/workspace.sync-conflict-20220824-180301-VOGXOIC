@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "d24cbb7bdd3d0ebb",
+    "type": "split",
+    "children": [
+      {
+        "id": "68ad4621648d377f",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97f2680762deecf1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "435a9548cf7d507f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "63ef89d8ed0efb83",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d71cf10867df0696",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8e058d8c13690269",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "eaddc574bd9d777d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8220c38b20ef6cff",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "443db7d07cf890dd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fb411ddd4e110d5f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4a98cf234e6879ff",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "68ad4621648d377f",
+  "lastOpenFiles": [
+    "test.md",
+    "Ideas/Work Pipeline and organization.md",
+    "Dad jokes for Hal.md",
+    "2022-08-18.md",
+    "Ideas/Tiktok Strategy.md",
+    "Ideas/Music Videos.md",
+    "Knowledge/Social strategies/Entratainer vs Entrepeneur content creator.md",
+    "Ideas/Analisi challenge video Fraffrog.md",
+    "Ideas/Cover Twitch.md",
+    "Knowledge/Productivity/How to finish projects.md"
+  ]
+}

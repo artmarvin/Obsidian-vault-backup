@@ -1,0 +1,1 @@
+#Music #videos are dead so you can do smaller music videos of 12 sec to #promote on #tiktok and #instagram 

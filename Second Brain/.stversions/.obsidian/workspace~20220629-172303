@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "d24cbb7bdd3d0ebb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cfaabbce78cb3ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "test.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33c50a890d45199c",
+    "type": "split",
+    "children": [
+      {
+        "id": "31a941fd8dc2a00a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1670e7bc86466442",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cccc21f2cc71d6f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a32fcafdb5000fb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "638dfd80a89d8cde",
+    "type": "split",
+    "children": [
+      {
+        "id": "0515b0c6c6c9f116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "062957399a0eea51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "986ae1bff86222c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f90234140b29408c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9cfaabbce78cb3ae",
+  "lastOpenFiles": [
+    "test.md",
+    "Social strategies/Tiktok Strategy.md",
+    "Social strategies/Analisi challenge video Fraffrog.md",
+    "Social strategies/Cover Twitch.md",
+    "Social strategies/Music Videos.md",
+    "Test.md",
+    "Nuovo.md",
+    "2022-06-25.md"
+  ]
+}

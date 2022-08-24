@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "it"
+  ],
+  "vimMode": true,
+  "tabSize": 3
+}

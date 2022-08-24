@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "d24cbb7bdd3d0ebb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3950c11c7d98a48c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dad jokes for Hal.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e519ed57c8807f02",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca326c6c90c716a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b048b6bee6022497",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b524a2f997210d3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93d6d789fe74b0e3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "d48026d688248e9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed461bcaa525ca87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45a4ba4d3444d441",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dad jokes for Hal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ad4fac44351c6c91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dad jokes for Hal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4489ef5311b7b559",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3950c11c7d98a48c",
+  "lastOpenFiles": [
+    "2022-08-18.md",
+    "Dad jokes for Hal.md",
+    "Ideas/Work Pipeline and organization.md",
+    "Ideas/Tiktok Strategy.md",
+    "Ideas/Music Videos.md",
+    "Knowledge/Social strategies/Entratainer vs Entrepeneur content creator.md",
+    "Ideas/Analisi challenge video Fraffrog.md",
+    "Ideas/Cover Twitch.md",
+    "Knowledge/Productivity/How to finish projects.md",
+    "Knowledge/Music production/How to pitch a kick.md"
+  ]
+}
